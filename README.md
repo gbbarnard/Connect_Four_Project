@@ -18,5 +18,7 @@ Then it will be Player Two turn playing with the yellow disc and they just have 
 Until one person has 4 disc in a row and that player wins or it draws.
 And then you can do it all over again.
 
+UML class diagrams:
+
 
 ![mermaid-diagram-2022-11-28-224534](https://user-images.githubusercontent.com/114040561/204433789-7866b9c0-02e3-4ae2-ada8-5277228ef055.png)
