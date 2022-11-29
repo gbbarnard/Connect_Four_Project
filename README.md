@@ -18,6 +18,17 @@ Then it will be Player Two turn playing with the yellow disc and they just have 
 Until one person has 4 disc in a row and that player wins or it draws.
 And then you can do it all over again.
 
+Implementation manual:
+This application was created by using java and javafx. This application all that place in one class, ConnectFour.java and along with some background music.
+The way the appilaction built the board that the play on is by using Shapes, like rectangular and circles.
+With Lighting and light to make it look more nice.
+The code uses javafx animation to show that the disc is droping down and MouseClicked to allow the player to click the row that want to drop the disc.
+Also uses Alert to bring up an new page whenever one of the players win the game,
+and then when the new page shows up I use Button to allow the player to leave the game or restart the gameover.
+
+
+
+
 UML class diagrams:
 
 
